@@ -1,5 +1,5 @@
 # ts-webpack-starter
-testaaa111
+
 ## install
 ```
 npm i
